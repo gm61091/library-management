@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "pg-promise": "^11.6.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "library-management-",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gm61091/library-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gm61091/library-management/issues"
+  },
+  "homepage": "https://github.com/gm61091/library-management#readme"
+}
