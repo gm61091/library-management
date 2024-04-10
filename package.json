@@ -5,7 +5,7 @@
     "pg-promise": "^11.6.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "name": "library-management-",
   "description": "",
